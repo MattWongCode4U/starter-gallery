@@ -11,7 +11,7 @@
     <body>
         <div id="wrapper">
             <div id="header">
-                <span class="myhead">Simple Image Gallery</span>
+                <span class="myhead">Sample Image Gallery</span>
                 <span class="mynav">
                     <ul>
                         <li><a href="/">Home</a></li>
@@ -22,8 +22,10 @@
             </div>
             <div class="alone"></div>
                        
-            <div id="content"> </div>
-            {content}
+            <div id="content"> 
+                {content}
+            </div>
+           
             <div id="footer" class="span12">
                 Copyright &copy; 2014,  <a href="mailto:someone@somewhere.com">Me</a>.
             </div>
