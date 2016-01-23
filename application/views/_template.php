@@ -11,7 +11,7 @@
     <body>
         <div id="wrapper">
             <div id="header">
-                <span class="myhead">Sample Image Gallery</span>
+                <span class="myhead">Simple Image Gallery</span>
                 <span class="mynav">
                     <ul>
                         <li><a href="/">Home</a></li>
